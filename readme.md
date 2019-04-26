@@ -1,4 +1,6 @@
 # Integrating AWS Elastic Beanstalk with Azure DevOps
+# **Region must be `Sydney`**
+
 ## Introduction 
 This lab demonstrates how you can integrate [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk) with [Azure DevOps](https://azure.microsoft.com/en-au/services/devops/server) to automatically deploy an ASP<span>.<span>NET core MVC application. We will edit an existing pipeline and queue a build of an existing Azure DevOps project to deploy the solution to AWS Elastic Beanstalk. 
 
